@@ -12,7 +12,8 @@ const CourseGoalList = props => {
           id={goal.id}
           onDelete={props.onDeleteItem}
         >
-          {goal.text}
+          Task Name: {goal.text} <br />
+          Description: {goal.description}
         </CourseGoalItem>
       ))}
     </ul>

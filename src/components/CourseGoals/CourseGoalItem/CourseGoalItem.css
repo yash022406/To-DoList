@@ -6,6 +6,8 @@
   padding: 1rem 2rem;
   cursor: pointer;
   display: flex;
+  align-items: center;
   justify-content: space-between;
   border-radius: 10px;
+  
 }
