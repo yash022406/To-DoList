@@ -1,5 +1,7 @@
 .form-control {
   margin: 0.5rem 0;
+  /* border: 2px solid red; */
+
 }
 
 .form-control label {

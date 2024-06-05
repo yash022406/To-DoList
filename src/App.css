@@ -7,8 +7,14 @@
 #goal-form {
   width: 30rem;
   max-width: 90%;
-  margin: 3rem auto;
+  margin: 0rem auto;
+  background-color: white;
   padding: 2rem;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
+}
+.main{
+  background-color: rgb(198, 198, 198);
+  height: 100vh;
+  padding-top: 5rem;
 }
